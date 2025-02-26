@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PurchaseOrder>
+  <POHeaderDetails>
+    <CompanyCode__>1100</CompanyCode__>
+    <VendorNumber__>0010002645</VendorNumber__>
+    <OrderNumber__>5500000150</OrderNumber__>
+    <OrderDate__>2023-06-02</OrderDate__>
+    <Currency__>NZD</Currency__>
+    <Buyer__>Alice Buyer</Buyer__>
+    <ProcurementContact__>Bob Procurement</ProcurementContact__>
+    <ProcurementContactPhone__>01 234 5678</ProcurementContactPhone__>
+    <ProcurementContactEmail__>bob.procurement@test.com</ProcurementContactEmail__>
+    <POCreator__>John Doe</POCreator__>
+    <HeaderContent__/>
+    <POPaymentTerms__>0003</POPaymentTerms__>
+    <PODocType__>NA</PODocType__>
+    <POSupplierRef__>ABC123</POSupplierRef__>
+    <CompanyPORef__>5500000150</CompanyPORef__>
+    <Incoterms1__>ABC</Incoterms1__>
+    <Incoterms2__>Auckland</Incoterms2__>
+    <PlannedFreght__/>
+    <DocNumber__>0000000000087110</DocNumber__>
+  </POHeaderDetails>
+  <POItemDetails>
+    <Item>
+      <CompanyCode__>1100</CompanyCode__>
+      <VendorNumber__>0010002645</VendorNumber__>
+      <OrderNumber__>5500000150</OrderNumber__>
+      <OrderDate__>2023-06-02</OrderDate__>
+      <ItemNumber__>00010</ItemNumber__>
+      <PartNumber__/>
+      <Material__>000000000000200148</Material__>
+      <EAN__/>
+      <ItemType__>0</ItemType__>
+      <Description__>Item 1 description 1</Description__>
+      <Description_2__/>
+      <GLAccount__/>
+      <Group__>19300</Group__>
+      <CostCenter__/>
+      <InternalOrder__/>
+      <WBSElement__/>
+      <UnitPrice__>5</UnitPrice__>
+      <OrderedAmount__>100</OrderedAmount__>
+      <UnitOfMeasureCode__>H87</UnitOfMeasureCode__>
+      <OrderedQuantity__>20.000</OrderedQuantity__>
+      <StoreID__>5024</StoreID__>
+      <Currency__>NZD</Currency__>
+      <TaxCode__/>
+      <ItemRequestedDeliveryDate__>2023-08-11</ItemRequestedDeliveryDate__>
+      <DeletionIndicator__>X</DeletionIndicator__>
+      <ReturnItem__>X</ReturnItem__>
+      <ReturnRef__/>
+      <ReturnRMA__>RMANUMBER001</ReturnRMA__>
+      <ReturnReason__>104</ReturnReason__>
+      <POAcknowledgement__/>
+      <NoMoreInvoiceExpected__/>
+      <NoGoodsReceipt__/>
+    </Item>
+     <Item>
+      <CompanyCode__>1100</CompanyCode__>
+      <VendorNumber__>0010002645</VendorNumber__>
+      <OrderNumber__>5500000150</OrderNumber__>
+      <OrderDate__>2023-06-02</OrderDate__>
+      <ItemNumber__>00020</ItemNumber__>
+      <PartNumber__/>
+      <Material__>000000000000200148</Material__>
+      <EAN__/>
+      <ItemType__>0</ItemType__>
+      <Description__>Item 2 description</Description__>
+      <Description_2__/>
+      <GLAccount__/>
+      <Group__>19300</Group__>
+      <CostCenter__/>
+      <InternalOrder__/>
+      <WBSElement__/>
+      <UnitPrice__>5</UnitPrice__>
+      <OrderedAmount__>50</OrderedAmount__>
+      <UnitOfMeasureCode__>H87</UnitOfMeasureCode__>
+      <OrderedQuantity__>10.000</OrderedQuantity__>
+      <StoreID__>5024</StoreID__>
+      <Currency__>NZD</Currency__>
+      <TaxCode__/>
+      <ItemRequestedDeliveryDate__>2023-08-11</ItemRequestedDeliveryDate__>
+      <DeletionIndicator__>X</DeletionIndicator__>
+      <ReturnItem__>X</ReturnItem__>
+      <ReturnRef__/>
+      <ReturnRMA__>RMANUMBER001</ReturnRMA__>
+      <ReturnReason__>104</ReturnReason__>
+      <POAcknowledgement__/>
+      <NoMoreInvoiceExpected__/>
+      <NoGoodsReceipt__/>
+    </Item>
+  </POItemDetails>
+  <DeliveryAddressDetails>
+    <ShipToCompany__>FBNZ</ShipToCompany__>
+    <ShipToSub__/>
+    <ShipToStreet__>1/80 street Road</ShipToStreet__>
+    <ShipToCity__>Auckland</ShipToCity__>
+    <ShipToZipCode__>1234</ShipToZipCode__>
+    <ShipToRegion__/>
+    <ShipToCountry__>NZ</ShipToCountry__>
+  </DeliveryAddressDetails>
+</PurchaseOrder>
